@@ -20,7 +20,7 @@
     </div>
   </div>
 
-  <!-- -------------- nav bar sectin ---------------- -->
+  {{-- <!-- -------------- nav bar sectin ---------------- --> --}}
 
   <div class="header" id="nav-bar">
     <div class="nav">

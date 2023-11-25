@@ -1,16 +1,16 @@
   <div class="footer-main">
     <div class="footer-sub">
-      <!-- Footer -->
+      {{-- <!-- Footer --> --}}
       <footer class="text-center text-lg-start bg-white text-muted">
-        <!-- Section: Social media -->
+        {{-- <!-- Section: Social media --> --}}
         <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-          <!-- Left -->
+          {{-- <!-- Left --> --}}
           <div class="me-5 d-none d-lg-block">
             <span>Get connected with us on social networks:</span>
           </div>
-          <!-- Left -->
+          {{-- <!-- Left --> --}}
 
-          <!-- Right -->
+          {{-- <!-- Right --> --}}
           <div>
             <a href="" class="me-4 link-secondary">
               <i class="fab fa-facebook-f"></i>
@@ -31,18 +31,18 @@
               <i class="fab fa-github"></i>
             </a>
           </div>
-          <!-- Right -->
+          {{-- <!-- Right --> --}}
         </section>
-        <!-- Section: Social media -->
+        {{-- <!-- Section: Social media --> --}}
 
-        <!-- Section: Links  -->
+        {{-- <!-- Section: Links  --> --}}
         <section class="">
           <div class="container text-center text-md-start mt-5">
-            <!-- Grid row -->
+            {{-- <!-- Grid row --> --}}
             <div class="row mt-3">
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
               <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-                <!-- Content -->
+                {{-- <!-- Content --> --}}
                 <h6 class="text-uppercase fw-bold mb-4">
                   <i class="fas fa-gem me-3 text-secondary"></i>About Me
                 </h6>
@@ -52,9 +52,9 @@
                   Video Editing , Graphics Design , SEO , Degital Marketing .
                 </p>
               </div>
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
 
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
               <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                 <!-- Links -->
                 <h6 class="text-uppercase fw-bold mb-4">
@@ -73,11 +73,11 @@
                   <a href="#services" class="text-reset">Wordpress</a>
                 </p>
               </div>
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
 
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
               <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-                <!-- Links -->
+                {{-- <!-- Links --> --}}
                 <h6 class="text-uppercase fw-bold mb-4">
                   Useful links
                 </h6>
@@ -94,9 +94,9 @@
                   <a href="#education" class="text-reset">My Education</a>
                 </p>
               </div>
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
 
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
               <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                 <!-- Links -->
                 <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
@@ -108,13 +108,13 @@
                 <p><i class="fas fa-phone me-3 text-secondary"></i>+ 8801615-445061</p>
                 <p><i class="fas fa-print me-3 text-secondary"></i> + 01615-445061</p>
               </div>
-              <!-- Grid column -->
+              {{-- <!-- Grid column --> --}}
             </div>
-            <!-- Grid row -->
+            {{-- <!-- Grid row --> --}}
           </div>
         </section>
-        <!-- Section: Links  -->
-        <!-- ---------------scrol to top section ----  -->
+        {{-- <!-- Section: Links  --> --}}
+        {{-- <!-- ---------------scrol to top section ----  --> --}}
 
         <div class="scrol">
           <a href="#">
@@ -122,13 +122,13 @@
           </a>
         </div>
 
-        <!-- Copyright -->
+        {{-- <!-- Copyright --> --}}
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
           © 2023 Copyright:
           <a class="text-reset fw-bold" href="https://www.facebook.com/abdullahshakeabir">Md Abdullah Shake</a>
         </div>
-        <!-- Copyright -->
+        {{-- <!-- Copyright --> --}}
       </footer>
-      <!-- Footer -->
+      {{-- <!-- Footer --> --}}
     </div>
   </div>

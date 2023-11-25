@@ -6,15 +6,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Md Abdullah Shake</title>
-  <!-- ----- Fav Icone ------  -->
+  {{-- <!-- ----- Fav Icone ------  --> --}}
   <link rel="icon" type="image/x-icon" href="/img/fav.png">
-  <!-- bootstrap  -->
+  {{-- <!-- bootstrap  --> --}}
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-  <!-- font awsome  -->
+  {{-- <!-- font awsome  --> --}}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
-  <!-- wow animation  -->
+  {{-- <!-- wow animation  --> --}}
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
   <link rel="stylesheet" href="{{asset('css')}}/style.css">
@@ -23,7 +23,7 @@
 </head>
 
 <body>
-  <!-- ------------ Top Header Section --------------- -->
+  {{-- <!-- ------------ Top Header Section --------------- --> --}}
     @include('components.header')
 
   {{-- <!-- Portfolio section  --> --}}
@@ -38,7 +38,7 @@
   {{-- - ------------- Education & Skills section------------  --}}
         @yield('education')
 
-  <!-- ============contact us section start =========== -->
+  {{-- <!-- ============contact us section start =========== --> --}}
   <br><br>
         @yield('contact')
 

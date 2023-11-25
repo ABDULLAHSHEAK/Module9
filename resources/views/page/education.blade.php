@@ -3,7 +3,7 @@
  <div class="education-area" id="education">
     <section class="myResume">
       <div class="container">
-        <!-- frist tab open-->
+        {{-- <!-- frist tab open--> --}}
         <div class="edu-top">
           <h2 class=" wow animate__animated animate__fadeIn">My Educational Qualification</h2>
         </div>

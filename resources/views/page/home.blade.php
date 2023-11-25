@@ -71,7 +71,7 @@
               <div class="sub-content">
                 <h1>Skills</h1>
 
-                <!-- tab skill section ===== -->
+                {{-- <!-- tab skill section ===== --> --}}
                 <div class="skills">
                   <div class="skill">
                     <div class="skill-name">
@@ -176,7 +176,7 @@
     </div>
   </div>
 
-  <!-- popup code start -->
+  {{-- <!-- popup code start --> --}}
 
   <div class="popup-hero" id="popup">
     <div class="popup-content">
@@ -206,7 +206,7 @@
   </div>
 
 
-  <!-- Service section  -->
+  {{-- <!-- Service section  --> --}}
 
 
   <section class="section services-section" id="services">
@@ -223,7 +223,7 @@
         </div>
       </div>
       <div class="row wow animate__animated animate__slideInUp">
-        <!-- feaure box -->
+        {{-- <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -244,8 +244,8 @@
             </div>
           </div>
         </div>
-        <!-- / -->
-        <!-- feaure box -->
+        {{-- <!-- / --> --}}
+        {{-- <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -263,8 +263,8 @@
             </div>
           </div>
         </div>
-        <!-- / -->
-        <!-- feaure box -->
+        {{-- <!-- / -->
+        <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -283,8 +283,8 @@
             </div>
           </div>
         </div>
-        <!-- / -->
-        <!-- feaure box -->
+        {{-- <!-- / -->
+        <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -303,8 +303,8 @@
             </div>
           </div>
         </div>
-        <!-- / -->
-        <!-- feaure box -->
+        {{-- <!-- / -->
+        <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -322,8 +322,8 @@
             </div>
           </div>
         </div>
-        <!-- / -->
-        <!-- feaure box -->
+        {{-- <!-- / -->
+        <!-- feaure box --> --}}
         <div class="col-sm-6 col-lg-4">
           <div class="feature-box-1">
             <div class="icon">
@@ -341,12 +341,12 @@
             </div>
           </div>
         </div>
-        <!-- / -->
+        {{-- <!-- / --> --}}
       </div>
     </div>
   </section>
 
-  <!-- completed project section  -->
+  {{-- <!-- completed project section  --> --}}
 
   <div class="counter wow animate__animated animate__slideInUp">
     <div class="sub-counter">
@@ -380,7 +380,7 @@
     </div>;
   </div>
 
-  <!-- ------------client revew system sectin ------------ -->
+  {{-- <!-- ------------client revew system sectin ------------ --> --}}
 
   <section class="home-testimonial">
     <div class="container-fluid">
